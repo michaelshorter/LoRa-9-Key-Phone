@@ -1,4 +1,4 @@
-# LoRaKeY 📡
+# LoRaKeY 
 
 A 'Phone' built on Arduino Nano that sends predefined words and custom sentences over LoRa  using a 12-button keypad and a small OLED display.
 
